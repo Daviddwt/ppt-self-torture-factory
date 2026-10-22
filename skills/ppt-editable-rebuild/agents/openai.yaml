@@ -1,0 +1,4 @@
+interface:
+  display_name: "三｜可编辑重建"
+  short_description: "按源图重建原生可编辑 PPT，通过独立角色、逐页视觉与实机检查验收。"
+  default_prompt: "使用 $ppt-editable-rebuild，先检查依赖并做样页，再将图片 PPT 重建为可编辑稿。"

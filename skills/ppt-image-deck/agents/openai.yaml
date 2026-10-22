@@ -1,0 +1,4 @@
+interface:
+  display_name: "二｜图片 PPT"
+  short_description: "通过当前 Codex 真实生图工具制作整页图片，并交付图片 PPT 与清单。"
+  default_prompt: "使用 $ppt-image-deck，检查工具与授权后，将已确认脚本制作成图片 PPT。"

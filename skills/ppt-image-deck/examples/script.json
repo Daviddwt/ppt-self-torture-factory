@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "title": "培训示例：整理读书笔记",
+  "canvas": { "width": 1600, "height": 900 },
+  "slides": [
+    {
+      "id": "P01",
+      "title": "用三个步骤整理读书笔记",
+      "key_message": "先摘录，再归类，最后写出自己的理解。",
+      "on_slide_text": ["摘录：保留原句及页码", "归类：把相近主题放在一起", "总结：写出自己的理解"],
+      "speaker_notes": "此页为虚构培训示例，用来演示图片 PPT 的输入格式。",
+      "image_prompt": "使用浅色背景和三个从左到右排列的流程卡片。标题位于顶部，正文保持清晰。",
+      "source_refs": ["synthetic-example: 本包新写的虚构培训示例，无客户资料"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ppt-self-torture-factory",
+  "version": "0.1.0-alpha.1",
+  "description": "Codex 专属的三阶段 PPT 工作流测试版。",
+  "author": {"name": "Daviddwt"},
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PPT 自虐工厂",
+    "shortDescription": "冲顶级 PPT，粉碎 Token、时间和硬盘。欢迎带着资料来挑战。",
+    "category": "Productivity",
+    "defaultPrompt": ["先检查环境和资料，再按一、二、三完成我的 PPT。"]
+  }
+}

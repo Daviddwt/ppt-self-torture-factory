@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ppt-self-torture-factory",
+  "version": "0.1.0-alpha.1",
+  "description": "Codex 专属 PPT 自虐工厂：资料成稿、图片 PPT、原生可编辑重建。",
+  "author": {"name": "Daviddwt", "url": "https://github.com/Daviddwt"},
+  "repository": "https://github.com/Daviddwt/ppt-self-torture-factory",
+  "license": "MIT",
+  "keywords": ["codex", "ppt", "powerpoint", "skills", "editable-ppt"]
+}

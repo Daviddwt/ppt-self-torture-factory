@@ -1,0 +1,4 @@
+interface:
+  display_name: "一｜内容与脚本"
+  short_description: "根据资料核对内容与来源，形成可审核的逐页脚本与视觉要求。"
+  default_prompt: "使用 $ppt-storyboard，先核对我的资料与目标，再准备逐页 PPT 脚本。"
